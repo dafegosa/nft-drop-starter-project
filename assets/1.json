@@ -1,0 +1,19 @@
+{
+  "name": "SENSEI-02",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "594DqoWj2XxdMNQHAEt1cYZJofhMBptLLMVxowLSjUow",
+        "share": 100
+      }
+    ]
+  }
+}
